@@ -1,0 +1,3 @@
+[submodule "foreignShared"]
+	path = foreignShared
+	url = https://github.com/karlfroeschl/MH-shared/tree/featureBase.git
